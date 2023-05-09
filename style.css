@@ -158,7 +158,9 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+span {
+  margin-bottom: 20px;
+}
 .portfolio_content_teamflow img {
   width: 200px;
   height: 200px;
